@@ -61,7 +61,7 @@ const Hero = () => {
                             <span className="">
                                 marketing {" "}
                             </span>
-                            with AI Precision.
+                            with AI Precision. 🤖
                         </h1>
                     </Container>
                     <Container delay={0.2}>
